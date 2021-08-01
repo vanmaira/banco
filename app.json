@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "soulmili",
+    "slug": "soulmili",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "soulmili"
+}
